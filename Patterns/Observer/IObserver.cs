@@ -8,5 +8,6 @@ namespace Weervoorspelling.Patterns.Observer
 {
     internal interface IObserver
     {
+        void Update(double temperatureDay);
     }
 }

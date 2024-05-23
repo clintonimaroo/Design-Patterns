@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "xn4kGXwiWBhFs3ErMatZtIcBVrORayvDa4QGDnt7jnkDailQP9Ppeww/dGutJNOUzKzBrUCR1X36hGC7MrsIVw==",
+  "success": true,
+  "projectFilePath": "/Users/clintonimaro/Documents/Projects/Design-Patterns/Weervoorspelling.csproj",
+  "expectedPackageFiles": [
+    "/Users/clintonimaro/.nuget/packages/microsoft.dotnet.ilcompiler/8.0.4/microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512",
+    "/Users/clintonimaro/.nuget/packages/microsoft.net.illink.tasks/8.0.4/microsoft.net.illink.tasks.8.0.4.nupkg.sha512",
+    "/Users/clintonimaro/.nuget/packages/runtime.osx-arm64.microsoft.dotnet.ilcompiler/8.0.4/runtime.osx-arm64.microsoft.dotnet.ilcompiler.8.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

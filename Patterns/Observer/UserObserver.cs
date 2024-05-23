@@ -6,7 +6,14 @@ using System.Threading.Tasks;
 
 namespace Weervoorspelling.Patterns.Observer
 {
-    internal class UserObserver
+    internal class UserObserver : IObserver
     {
+        public void Update(double temperatureDay)
+        {
+            if (temperatureDay > 15)
+            {
+                Console.WriteLine("Melding: Temperatuur is boven de 15 graden.");
+            }
+        }
     }
 }

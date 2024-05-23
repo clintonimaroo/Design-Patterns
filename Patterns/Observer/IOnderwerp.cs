@@ -8,5 +8,8 @@ namespace Weervoorspelling.Patterns.Observer
 {
     internal interface IOnderwerp
     {
+        void Attach(IObserver observer);
+        void Detach(IObserver observer);
+        void Notify();
     }
 }
